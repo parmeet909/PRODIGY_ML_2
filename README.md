@@ -1,4 +1,4 @@
-**Prodigy_Task_2_ML**
+**Prodigy_ML_Task_2**
 
 **Task:**
 K-means clustering algorithm to group customers of a reatail store based on their purchase history.
